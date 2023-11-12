@@ -1,0 +1,172 @@
+.body{
+    font-family: "montserrat",sans-serif;
+    background-color: #FFFFFF;
+}
+/* Main styles */
+.Main{
+    display: flex;
+    flex-direction: row-reverse;
+
+    margin: 120 auto;
+    justify-content: center;
+}
+/* about style */
+.about_user{
+    margin-bottom: 0px;
+}
+.about_position{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 14 px;
+    line-height: 7px;
+    color: black;
+    margin-bottom: 0px;
+    
+}
+.about_name{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 45 px;
+    line-height: 55px;
+    color: black;
+    margin-bottom: 0px;
+   
+}
+.about_destription{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 14 px;
+    line-height: 20px;
+    color: blue ;
+    margin-bottom: 0px;
+    width: 400px;
+}
+.project_likt{
+    padding: 0px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+   
+}
+.Project{
+    margin-bottom: 0px;  
+}
+    
+ /* sidebar style */
+ .sidebar{
+     background-color: #1E2939;   
+ }
+ .main_content{
+     background-color: #FFFFFF;
+     box-shadow: 6px 6px 20px rgba(0,0,0,1);
+     padding: 105px 90px;
+ }
+ .Tech{
+     color: #FFFFFF;
+     font-style: oblique;
+     font-weight: bold;
+     font-size: 14 px;
+     line-height: 27px;
+     padding: 0;
+     margin: 20px;
+ }
+.Contakt{
+    margin-bottom: 50 px;
+    margin-left: 10px;
+}
+.Skills_fan{
+    color: #FFFFFF;
+    
+}
+.Skills{
+    color: #FFFFFF;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 27px;
+    margin-left: 10px;
+}
+.Skills_fan{
+    color: yellow;
+    margin-left: 10px;
+}
+.Sidebar_title{
+    margin-left: 10px;
+    color: aqua;
+    font: 14px  
+}
+.Contakt_info{
+    color: chartreuse;
+}
+.Contakt_link{
+    color: darkgoldenrod;
+    font: 14px
+}
+.naked{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 14 px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 0px;
+}
+.project_item,project_link{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 14 px;
+    line-height: 27px;
+    color: black;
+    
+}
+.project_link{
+    color: chocolate;
+}
+.project_item{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 14 px;
+    line-height: 27px;
+    color: #000000;
+}
+.work_possion{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 16 px;
+    line-height: 20px;
+    color: black;
+    margin-bottom: 10px;
+}
+.organization{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 16 px;
+    line-height: 20px;
+    color: chartreuse;
+}
+.periot{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+margin-bottom: 10px;
+padding: 0px;
+}
+.link{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 40000;
+font-size: 12px;
+line-height: 15px;
+color: #000000;
+}
+.work_list{
+    padding: 0px;
+    margin-bottom: 15px;
+}
+.wokr_list_tittle{font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+margin-left: 15px;
+}
